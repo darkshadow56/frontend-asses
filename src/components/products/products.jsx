@@ -36,7 +36,7 @@ const responsive = {
   dotListClass="custom-dot-list-style"
   itemClass="carousel-item-padding-40-px"
 >
-  <div>product</div>
+  <div>product 1</div>
   <div>Item 2</div>
   <div>Item 3</div>
   <div>Item 4</div>
